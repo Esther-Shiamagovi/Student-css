@@ -1,0 +1,24 @@
+#container1{
+    
+        border:2px solid blueviolet;
+        width:30%;
+        margin:0 auto;
+        padding:14px;
+        height: 90%;
+       
+
+
+
+}
+#table,th,td{
+    border: 1px solid violet;
+    border-radius: 16px;
+
+}
+#container3{
+    margin: auto;
+    padding: 14px;
+    width: 30%;
+    height: 90%;
+    border: 2px solid blue;
+}
